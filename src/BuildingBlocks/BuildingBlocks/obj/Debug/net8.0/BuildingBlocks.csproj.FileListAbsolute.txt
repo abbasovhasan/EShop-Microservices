@@ -1,0 +1,12 @@
+C:\Users\abbas\OneDrive\Documents\ecommerce microservices\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.AssemblyReference.cache
+C:\Users\abbas\OneDrive\Documents\ecommerce microservices\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\OneDrive\Documents\ecommerce microservices\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfoInputs.cache
+C:\Users\abbas\OneDrive\Documents\ecommerce microservices\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfo.cs
+C:\Users\abbas\OneDrive\Documents\ecommerce microservices\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+C:\Users\abbas\OneDrive\Documents\ecommerce microservices\src\BuildingBlocks\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.deps.json
+C:\Users\abbas\OneDrive\Documents\ecommerce microservices\src\BuildingBlocks\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.dll
+C:\Users\abbas\OneDrive\Documents\ecommerce microservices\src\BuildingBlocks\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.pdb
+C:\Users\abbas\OneDrive\Documents\ecommerce microservices\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.dll
+C:\Users\abbas\OneDrive\Documents\ecommerce microservices\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\refint\BuildingBlocks.dll
+C:\Users\abbas\OneDrive\Documents\ecommerce microservices\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.pdb
+C:\Users\abbas\OneDrive\Documents\ecommerce microservices\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\ref\BuildingBlocks.dll
