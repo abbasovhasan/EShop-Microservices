@@ -10,3 +10,4 @@ C:\Users\abbas\OneDrive\Documents\ecommerce microservices\src\BuildingBlocks\Bui
 C:\Users\abbas\OneDrive\Documents\ecommerce microservices\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\refint\BuildingBlocks.dll
 C:\Users\abbas\OneDrive\Documents\ecommerce microservices\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.pdb
 C:\Users\abbas\OneDrive\Documents\ecommerce microservices\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\ref\BuildingBlocks.dll
+C:\Users\abbas\OneDrive\Documents\ecommerce microservices\src\BuildingBlocks\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.sourcelink.json

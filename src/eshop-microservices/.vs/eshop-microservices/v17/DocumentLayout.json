@@ -3,14 +3,33 @@
   "WorkspaceRootPath": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\eshop-microservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{54CB78B5-BCC5-4A10-8557-CC35DA033492}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\ecommerce microservices\\src\\eshop-microservices\\services\\catalog\\catalogapi\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CB78B5-BCC5-4A10-8557-CC35DA033492}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB01443F-E153-4EB9-81D1-46133819FCD3}|..\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\abbas\\onedrive\\documents\\ecommerce microservices\\src\\buildingblocks\\buildingblocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{54CB78B5-BCC5-4A10-8557-CC35DA033492}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\ecommerce microservices\\src\\eshop-microservices\\services\\catalog\\catalogapi\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CB78B5-BCC5-4A10-8557-CC35DA033492}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CB78B5-BCC5-4A10-8557-CC35DA033492}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\ecommerce microservices\\src\\eshop-microservices\\services\\catalog\\catalogapi\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CB78B5-BCC5-4A10-8557-CC35DA033492}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54CB78B5-BCC5-4A10-8557-CC35DA033492}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\ecommerce microservices\\src\\eshop-microservices\\services\\catalog\\catalogapi\\catalogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{54CB78B5-BCC5-4A10-8557-CC35DA033492}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\catalogapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB01443F-E153-4EB9-81D1-46133819FCD3}|..\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\abbas\\onedrive\\documents\\ecommerce microservices\\src\\buildingblocks\\buildingblocks\\buildingblocks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54CB78B5-BCC5-4A10-8557-CC35DA033492}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\ecommerce microservices\\src\\eshop-microservices\\services\\catalog\\catalogapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54CB78B5-BCC5-4A10-8557-CC35DA033492}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB01443F-E153-4EB9-81D1-46133819FCD3}|..\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\abbas\\onedrive\\documents\\ecommerce microservices\\src\\buildingblocks\\buildingblocks\\cqrs\\icommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB01443F-E153-4EB9-81D1-46133819FCD3}|..\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\abbas\\onedrive\\documents\\ecommerce microservices\\src\\buildingblocks\\buildingblocks\\cqrs\\iqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -20,18 +39,6 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{FB01443F-E153-4EB9-81D1-46133819FCD3}|..\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj|c:\\users\\abbas\\onedrive\\documents\\ecommerce microservices\\src\\buildingblocks\\buildingblocks\\cqrs\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54CB78B5-BCC5-4A10-8557-CC35DA033492}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\ecommerce microservices\\src\\eshop-microservices\\services\\catalog\\catalogapi\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54CB78B5-BCC5-4A10-8557-CC35DA033492}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\products\\createproduct\\createproducthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54CB78B5-BCC5-4A10-8557-CC35DA033492}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\ecommerce microservices\\src\\eshop-microservices\\services\\catalog\\catalogapi\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54CB78B5-BCC5-4A10-8557-CC35DA033492}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\products\\createproduct\\createproductendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{54CB78B5-BCC5-4A10-8557-CC35DA033492}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\ecommerce microservices\\src\\eshop-microservices\\services\\catalog\\catalogapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{54CB78B5-BCC5-4A10-8557-CC35DA033492}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|solutionrelative:services\\catalog\\catalogapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{54CB78B5-BCC5-4A10-8557-CC35DA033492}|Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj|c:\\users\\abbas\\onedrive\\documents\\ecommerce microservices\\src\\eshop-microservices\\services\\catalog\\catalogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,15 +56,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\eshop-microservices\\Services\\Catalog\\CatalogAPI\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\GlobalUsing.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\eshop-microservices\\Services\\Catalog\\CatalogAPI\\GlobalUsing.cs",
+              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T21:47:51.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BuildingBlocks",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeDocumentMoniker": "..\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "RelativeToolTip": "..\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-26T21:25:33.475Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.400\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
@@ -70,7 +103,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateProductEndpoint.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\eshop-microservices\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\eshop-microservices\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:23:37.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "CreateProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\eshop-microservices\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\eshop-microservices\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:23:18.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CatalogAPI.csproj",
               "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\eshop-microservices\\Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
@@ -83,43 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
-              "RelativeDocumentMoniker": "..\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
-              "RelativeToolTip": "..\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:47:26.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ICommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
-              "RelativeDocumentMoniker": "..\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
-              "RelativeToolTip": "..\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAByAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:42:47.127Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IQuery.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
-              "RelativeDocumentMoniker": "..\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
-              "RelativeToolTip": "..\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:33:40.99Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "ICommand.cs",
               "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
               "RelativeDocumentMoniker": "..\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
@@ -127,47 +150,64 @@
               "RelativeToolTip": "..\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:31:48.609Z"
+              "WhenOpened": "2024-09-24T20:31:48.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
+              "RelativeDocumentMoniker": "..\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
+              "RelativeToolTip": "..\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:33:40.99Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "CreateProductEndpoint.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\eshop-microservices\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\eshop-microservices\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductEndpoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ICommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
+              "RelativeDocumentMoniker": "..\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
+              "RelativeToolTip": "..\\BuildingBlocks\\BuildingBlocks\\CQRS\\ICommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T19:23:37.34Z"
+              "WhenOpened": "2024-09-24T20:42:47.127Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateProductHandler.cs",
-              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\eshop-microservices\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\eshop-microservices\\Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Products\\CreateProduct\\CreateProductHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T19:23:18.755Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\eshop-microservices\\Services\\Catalog\\CatalogAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\eshop-microservices\\Services\\Catalog\\CatalogAPI\\Models\\Product.cs",
               "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T19:18:15.923Z"
+              "WhenOpened": "2024-09-24T19:18:15.923Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
+              "Title": "IQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
+              "RelativeDocumentMoniker": "..\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
+              "ToolTip": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
+              "RelativeToolTip": "..\\BuildingBlocks\\BuildingBlocks\\CQRS\\IQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:47:26.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\eshop-microservices\\Services\\Catalog\\CatalogAPI\\Program.cs",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Program.cs",
@@ -175,11 +215,12 @@
               "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T19:17:38.847Z"
+              "WhenOpened": "2024-09-24T19:17:38.847Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\eshop-microservices\\Services\\Catalog\\CatalogAPI\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Services\\Catalog\\CatalogAPI\\Properties\\launchSettings.json",
@@ -187,7 +228,8 @@
               "RelativeToolTip": "Services\\Catalog\\CatalogAPI\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-24T19:17:01.973Z"
+              "WhenOpened": "2024-09-24T19:17:01.973Z",
+              "EditorCaption": ""
             }
           ]
         },
