@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uRyHTITEWII=",
+  "dgSpecHash": "xW5jVP5R+ac=",
   "success": true,
-  "projectFilePath": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\eshop-microservices\\Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
+  "projectFilePath": "C:\\Users\\abbas\\OneDrive\\Desktop\\ecommerce microservices\\src\\eshop-microservices\\Services\\Catalog\\CatalogAPI\\CatalogAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abbas\\.nuget\\packages\\carter\\8.2.1\\carter.8.2.1.nupkg.sha512",
     "C:\\Users\\abbas\\.nuget\\packages\\carter.analyzers\\8.2.1\\carter.analyzers.8.2.1.nupkg.sha512",

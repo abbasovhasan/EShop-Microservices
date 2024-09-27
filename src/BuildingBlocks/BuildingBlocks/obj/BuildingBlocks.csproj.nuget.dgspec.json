@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj": {}
+    "C:\\Users\\abbas\\OneDrive\\Desktop\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj": {
+    "C:\\Users\\abbas\\OneDrive\\Desktop\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+        "projectUniqueName": "C:\\Users\\abbas\\OneDrive\\Desktop\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
         "projectName": "BuildingBlocks",
-        "projectPath": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
+        "projectPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\BuildingBlocks.csproj",
         "packagesPath": "C:\\Users\\abbas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abbas\\OneDrive\\Documents\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\obj\\",
+        "outputPath": "C:\\Users\\abbas\\OneDrive\\Desktop\\ecommerce microservices\\src\\BuildingBlocks\\BuildingBlocks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abbas\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,10 +46,6 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Carter": {
-              "target": "Package",
-              "version": "[8.2.1, )"
-            },
             "Mapster": {
               "target": "Package",
               "version": "[7.4.1-pre01, )"

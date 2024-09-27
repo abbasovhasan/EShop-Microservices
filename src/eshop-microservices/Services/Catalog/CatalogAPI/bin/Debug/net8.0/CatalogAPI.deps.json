@@ -9,6 +9,7 @@
       "CatalogAPI/1.0.0": {
         "dependencies": {
           "BuildingBlocks": "1.0.0",
+          "Carter": "8.2.1",
           "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": "1.21.0"
         },
         "runtime": {
@@ -223,7 +224,6 @@
       },
       "BuildingBlocks/1.0.0": {
         "dependencies": {
-          "Carter": "8.2.1",
           "Mapster": "7.4.1-pre01",
           "MediatR": "12.4.1"
         },
